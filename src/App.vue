@@ -67,7 +67,7 @@ export default {
 		this.stats = res.data
 	},
 	data: () => ({
-        stats: {},
+        stats: {}, 
 
 		items: [
 			{
