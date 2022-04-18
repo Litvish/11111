@@ -3,7 +3,7 @@
 		<v-app-bar app>
 			<v-toolbar-title class="mr-5">Фермерский роддом №5</v-toolbar-title>
 			<v-spacer />
-			<v-toolbar-title>Гекман Кирилл 201-322</v-toolbar-title>
+			<v-toolbar-title>коровы и быки наши друзья</v-toolbar-title>
 		</v-app-bar>
 
 		<v-navigation-drawer app>
